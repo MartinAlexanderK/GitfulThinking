@@ -15,6 +15,8 @@
 		07CBCDF729D18B9300BA451A /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDF629D18B9300BA451A /* Shapes.swift */; };
 		07CBCDF929D1936500BA451A /* ColorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDF829D1936500BA451A /* ColorsBootCamp.swift */; };
 		07CBCDFB29D1C96E00BA451A /* SymbolsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDFA29D1C96E00BA451A /* SymbolsBootCamp.swift */; };
+		07CBCDFD29D1CD5300BA451A /* ImageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDFC29D1CD5300BA451A /* ImageBootCamp.swift */; };
+		07CBCE0129D1CFE700BA451A /* ButtonsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCE0029D1CFE700BA451A /* ButtonsBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		07CBCDF629D18B9300BA451A /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		07CBCDF829D1936500BA451A /* ColorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootCamp.swift; sourceTree = "<group>"; };
 		07CBCDFA29D1C96E00BA451A /* SymbolsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsBootCamp.swift; sourceTree = "<group>"; };
+		07CBCDFC29D1CD5300BA451A /* ImageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootCamp.swift; sourceTree = "<group>"; };
+		07CBCE0029D1CFE700BA451A /* ButtonsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,9 @@
 				07CBCDF429D1822500BA451A /* TextBootCamp.swift */,
 				07CBCDF829D1936500BA451A /* ColorsBootCamp.swift */,
 				07CBCDF629D18B9300BA451A /* Shapes.swift */,
+				07CBCDFA29D1C96E00BA451A /* SymbolsBootCamp.swift */,
+				07CBCDFC29D1CD5300BA451A /* ImageBootCamp.swift */,
+				07CBCE0029D1CFE700BA451A /* ButtonsBootCamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -74,7 +81,6 @@
 			isa = PBXGroup;
 			children = (
 				07CBCDED29D17DE400BA451A /* Preview Assets.xcassets */,
-				07CBCDFA29D1C96E00BA451A /* SymbolsBootCamp.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -151,7 +157,9 @@
 			files = (
 				07CBCDF929D1936500BA451A /* ColorsBootCamp.swift in Sources */,
 				07CBCDE929D17DE300BA451A /* ContentView.swift in Sources */,
+				07CBCDFD29D1CD5300BA451A /* ImageBootCamp.swift in Sources */,
 				07CBCDFB29D1C96E00BA451A /* SymbolsBootCamp.swift in Sources */,
+				07CBCE0129D1CFE700BA451A /* ButtonsBootCamp.swift in Sources */,
 				07CBCDE729D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				07CBCDF529D1822500BA451A /* TextBootCamp.swift in Sources */,
 				07CBCDF729D18B9300BA451A /* Shapes.swift in Sources */,
