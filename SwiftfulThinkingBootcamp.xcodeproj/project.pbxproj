@@ -12,6 +12,7 @@
 		07CBCDEB29D17DE400BA451A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07CBCDEA29D17DE400BA451A /* Assets.xcassets */; };
 		07CBCDEE29D17DE400BA451A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07CBCDED29D17DE400BA451A /* Preview Assets.xcassets */; };
 		07CBCDF529D1822500BA451A /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDF429D1822500BA451A /* TextBootCamp.swift */; };
+		07CBCDF729D18B9300BA451A /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDF629D18B9300BA451A /* Shapes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		07CBCDEA29D17DE400BA451A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07CBCDED29D17DE400BA451A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		07CBCDF429D1822500BA451A /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
+		07CBCDF629D18B9300BA451A /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				07CBCDEA29D17DE400BA451A /* Assets.xcassets */,
 				07CBCDEC29D17DE400BA451A /* Preview Content */,
 				07CBCDF429D1822500BA451A /* TextBootCamp.swift */,
+				07CBCDF629D18B9300BA451A /* Shapes.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				07CBCDE929D17DE300BA451A /* ContentView.swift in Sources */,
 				07CBCDE729D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				07CBCDF529D1822500BA451A /* TextBootCamp.swift in Sources */,
+				07CBCDF729D18B9300BA451A /* Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
