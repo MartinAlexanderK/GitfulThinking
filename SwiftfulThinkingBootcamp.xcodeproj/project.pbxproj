@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07486C9629D332BA00DE59C2 /* OverlayBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07486C9529D332BA00DE59C2 /* OverlayBootCamp.swift */; };
 		07CBCDE729D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDE629D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift */; };
 		07CBCDE929D17DE300BA451A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDE829D17DE300BA451A /* ContentView.swift */; };
 		07CBCDEB29D17DE400BA451A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07CBCDEA29D17DE400BA451A /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07486C9529D332BA00DE59C2 /* OverlayBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayBootCamp.swift; sourceTree = "<group>"; };
 		07CBCDE329D17DE300BA451A /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07CBCDE629D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		07CBCDE829D17DE300BA451A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				07CBCDFC29D1CD5300BA451A /* ImageBootCamp.swift */,
 				07CBCE0029D1CFE700BA451A /* ButtonsBootCamp.swift */,
 				07CBCE0229D1D6CD00BA451A /* FrameBootCamp.swift */,
+				07486C9529D332BA00DE59C2 /* OverlayBootCamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				07CBCDF929D1936500BA451A /* ColorsBootCamp.swift in Sources */,
 				07CBCDE929D17DE300BA451A /* ContentView.swift in Sources */,
 				07CBCDFD29D1CD5300BA451A /* ImageBootCamp.swift in Sources */,
+				07486C9629D332BA00DE59C2 /* OverlayBootCamp.swift in Sources */,
 				07CBCDFB29D1C96E00BA451A /* SymbolsBootCamp.swift in Sources */,
 				07CBCE0129D1CFE700BA451A /* ButtonsBootCamp.swift in Sources */,
 				07CBCDE729D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift in Sources */,
