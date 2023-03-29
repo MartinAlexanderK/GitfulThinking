@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		07346EFB29D412F0006AF426 /* SpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07346EFA29D412F0006AF426 /* SpacerBootCamp.swift */; };
+		07346EFD29D41954006AF426 /* InitializerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07346EFC29D41954006AF426 /* InitializerBootCamp.swift */; };
 		07486C9629D332BA00DE59C2 /* OverlayBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07486C9529D332BA00DE59C2 /* OverlayBootCamp.swift */; };
 		07486C9829D33ACC00DE59C2 /* StacksBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07486C9729D33ACC00DE59C2 /* StacksBootCamp.swift */; };
 		07486C9A29D3419300DE59C2 /* PaddingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07486C9929D3419300DE59C2 /* PaddingBootCamp.swift */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		07346EFA29D412F0006AF426 /* SpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootCamp.swift; sourceTree = "<group>"; };
+		07346EFC29D41954006AF426 /* InitializerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootCamp.swift; sourceTree = "<group>"; };
 		07486C9529D332BA00DE59C2 /* OverlayBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayBootCamp.swift; sourceTree = "<group>"; };
 		07486C9729D33ACC00DE59C2 /* StacksBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootCamp.swift; sourceTree = "<group>"; };
 		07486C9929D3419300DE59C2 /* PaddingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootCamp.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				07486C9729D33ACC00DE59C2 /* StacksBootCamp.swift */,
 				07486C9929D3419300DE59C2 /* PaddingBootCamp.swift */,
 				07346EFA29D412F0006AF426 /* SpacerBootCamp.swift */,
+				07346EFC29D41954006AF426 /* InitializerBootCamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				07346EFB29D412F0006AF426 /* SpacerBootCamp.swift in Sources */,
 				07CBCDFB29D1C96E00BA451A /* SymbolsBootCamp.swift in Sources */,
 				07CBCE0129D1CFE700BA451A /* ButtonsBootCamp.swift in Sources */,
+				07346EFD29D41954006AF426 /* InitializerBootCamp.swift in Sources */,
 				07CBCDE729D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				07CBCDF529D1822500BA451A /* TextBootCamp.swift in Sources */,
 				07CBCDF729D18B9300BA451A /* ShapesBootCamp.swift in Sources */,
