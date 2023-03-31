@@ -15,35 +15,23 @@ struct AnimationTimingBootCamp: View {
     @State var easeInandout = false
     @State var easeOut = false
     
-    
-    
     var body: some View {
         VStack {
-            
             HStack {
                 Button("Button") {
                     withAnimation(.default) {
                         isAnimating.toggle()
-
                     }
-                    
-
                 }
                 Button("Button") {
                     withAnimation(.linear) {
                         linear.toggle()
-
                     }
-                    
-
                 }
                 Button("Button") {
                     withAnimation(.easeIn) {
                         easain.toggle()
-
                     }
-                    
-
                 }
                 Button("Button") {
                     withAnimation(.spring(
@@ -51,28 +39,15 @@ struct AnimationTimingBootCamp: View {
                         dampingFraction: 0.5,
                         blendDuration: 1.0)) {
                         easeInandout.toggle()
-
                     }
-                    
-
                 }
                 Button("Button") {
                     withAnimation(.easeOut) {
                         easeOut.toggle()
-
                     }
-                    
-
                 }
             }
-            
-            
-            
-            
-            
-            
-            
-                RoundedRectangle(cornerRadius: 20)
+            RoundedRectangle(cornerRadius: 20)
                     .frame(width: isAnimating ? 350 : 50, height: 100)
             RoundedRectangle(cornerRadius: 20)
                 .frame(width: linear ? 350 : 50, height: 100)
