@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0713E76E29D82B9900823D44 /* NavigationViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713E76D29D82B9900823D44 /* NavigationViewBootCamp.swift */; };
 		0713E77029D8320100823D44 /* ListBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713E76F29D8320100823D44 /* ListBootCamp.swift */; };
+		0713E77229D8749200823D44 /* AllertsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713E77129D8749200823D44 /* AllertsBootCamp.swift */; };
 		07346EFB29D412F0006AF426 /* SpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07346EFA29D412F0006AF426 /* SpacerBootCamp.swift */; };
 		07346EFD29D41954006AF426 /* InitializerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07346EFC29D41954006AF426 /* InitializerBootCamp.swift */; };
 		07420A2029D4B3C1006A831D /* GridBottCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07420A1F29D4B3C1006A831D /* GridBottCamp.swift */; };
@@ -45,6 +46,7 @@
 /* Begin PBXFileReference section */
 		0713E76D29D82B9900823D44 /* NavigationViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootCamp.swift; sourceTree = "<group>"; };
 		0713E76F29D8320100823D44 /* ListBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootCamp.swift; sourceTree = "<group>"; };
+		0713E77129D8749200823D44 /* AllertsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllertsBootCamp.swift; sourceTree = "<group>"; };
 		07346EFA29D412F0006AF426 /* SpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootCamp.swift; sourceTree = "<group>"; };
 		07346EFC29D41954006AF426 /* InitializerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootCamp.swift; sourceTree = "<group>"; };
 		07420A1F29D4B3C1006A831D /* GridBottCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBottCamp.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				074DEC0029D7426200096BD5 /* PopOverBootCamp.swift */,
 				0713E76D29D82B9900823D44 /* NavigationViewBootCamp.swift */,
 				0713E76F29D8320100823D44 /* ListBootCamp.swift */,
+				0713E77129D8749200823D44 /* AllertsBootCamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				07346EFD29D41954006AF426 /* InitializerBootCamp.swift in Sources */,
 				07CBCDE729D17DE300BA451A /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				07CBCDF529D1822500BA451A /* TextBootCamp.swift in Sources */,
+				0713E77229D8749200823D44 /* AllertsBootCamp.swift in Sources */,
 				07CBCDF729D18B9300BA451A /* ShapesBootCamp.swift in Sources */,
 				074DEBEF29D5D46700096BD5 /* ExtractedFunctionsBootCamp.swift in Sources */,
 				07CBCE0329D1D6CD00BA451A /* FrameBootCamp.swift in Sources */,
