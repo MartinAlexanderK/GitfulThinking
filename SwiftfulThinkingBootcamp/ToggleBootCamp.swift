@@ -27,6 +27,7 @@ struct ToggleBootCamp: View {
     }
 }
 
+
 struct ToggleBootCamp_Previews: PreviewProvider {
     static var previews: some View {
         ToggleBootCamp()
