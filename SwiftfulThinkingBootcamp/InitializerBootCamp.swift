@@ -14,11 +14,9 @@ struct InitializerBootCamp: View {
     let count: Int
     let title: String
     
-    
     init(count: Int, fruit: Fruit) {
         self.count = count
-        
-        
+       
         if fruit == .apple {
             self.title = "Apple"
             self.backgroundColor = .red
@@ -35,13 +33,10 @@ struct InitializerBootCamp: View {
 //            self.backgroundColor = .orange
 //        }
     }
-    
     enum Fruit {
         case apple
         case orange
     }
-    
-    
     var body: some View {
         VStack (spacing: 12){
             Text("\(count)")

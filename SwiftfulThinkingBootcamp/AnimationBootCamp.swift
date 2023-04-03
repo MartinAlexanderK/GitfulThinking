@@ -21,7 +21,6 @@ struct AnimationBootCamp: View {
                 )
                 {
                     isAnimated.toggle()
-                    
                 }
             }
             Spacer()

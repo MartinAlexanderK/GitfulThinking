@@ -14,9 +14,7 @@ struct PaddingBootCamp: View {
                 .font(.largeTitle)
             .fontWeight(.semibold)
             .padding(.bottom, 20)
-            
             Text("This is the descipiton of what we will do on this screen. It is multiple lines and we will align the text on the leading edge")
-
         }
         .padding()
         .padding(.vertical, 30)

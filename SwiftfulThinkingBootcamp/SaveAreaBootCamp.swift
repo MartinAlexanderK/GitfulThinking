@@ -9,13 +9,10 @@ import SwiftUI
 
 struct SaveAreaBootCamp: View {
     var body: some View {
-        
         ScrollView {
             Text("Title goes gere")
                 .font(.largeTitle)
                 .frame(maxWidth: .infinity, alignment: .leading)
-            
-            
             ForEach(0..<10) { index in
                 RoundedRectangle(cornerRadius: 25)
                     .fill(Color.white)
@@ -25,8 +22,6 @@ struct SaveAreaBootCamp: View {
             }
         }
         .background(Color(.systemCyan))
-        
-        
 //        ZStack {
 //
 //            //background
@@ -37,7 +32,6 @@ struct SaveAreaBootCamp: View {
 //            VStack {
 //                Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
 //                Spacer()
-//
 //            }
 //            .frame(maxWidth: .infinity, maxHeight: .infinity)
 //        }

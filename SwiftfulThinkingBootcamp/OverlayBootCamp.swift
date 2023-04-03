@@ -18,7 +18,6 @@ struct OverlayBootCamp: View {
                     gradient: Gradient(colors: [Color.white, Color.blue]),
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing))
-            
                 .frame(width: 100, height: 100)
                 .shadow(color: .purple.opacity(0.5), radius: 10, x: 0.0, y: 10)
                 .overlay(alignment: .bottomTrailing, content: {
@@ -32,15 +31,9 @@ struct OverlayBootCamp: View {
                                 .foregroundColor(.white)
                         }
                         .shadow(color: .purple.opacity(0.5), radius: 10, x: 5, y: 5)
-
-                        
                 })
-                
-            
-            
             )
     }
-    
 }
 
 struct OverlayBootCamp_Previews: PreviewProvider {
