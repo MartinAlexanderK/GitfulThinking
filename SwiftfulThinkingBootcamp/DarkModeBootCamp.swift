@@ -28,7 +28,7 @@ struct DarkModeBootCamp: View {
                         .foregroundColor(Color.red)
                     Text("This color is globally adaptive")
                         .foregroundColor(Color(.systemBlue))
-                    Text("This color is locally addaptive")
+                        Text("This color is locally addaptive")
                         .foregroundColor(colorScheme == .light ? .green : .yellow)
                 }
                 
