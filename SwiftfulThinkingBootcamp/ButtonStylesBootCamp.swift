@@ -46,7 +46,6 @@ struct ButtonStylesBootCamp: View {
             .controlSize(.mini)
             .buttonStyle(.borderedProminent)
         }
-        
     }
 }
 
