@@ -61,7 +61,6 @@ struct OnboardingView: View {
                 }
             }
             //buttons
-            
             VStack {
                 Spacer()
                 bottomButton
@@ -69,7 +68,6 @@ struct OnboardingView: View {
             .padding()
         }
         .alert("\(alterTitle)", isPresented: $showAlert) {
-            
         }
     }
 }
@@ -116,7 +114,6 @@ extension OnboardingView {
                         .offset(y: 5)
                         .foregroundColor(.white)
                     , alignment: .bottom)
-            
             Text("This is the number 1 app for finding your match online! In this BootCamp we are practicing how to use @appstorage and other swiftui techniques")
                 .fontWeight(.medium)
                 .foregroundColor(.white)
@@ -185,7 +182,6 @@ extension OnboardingView {
             .background(Color.white)
             .cornerRadius(10)
             .padding()
-            
             Spacer()
             Spacer()
         }
