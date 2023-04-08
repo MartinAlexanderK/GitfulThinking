@@ -72,6 +72,7 @@
 		07CBCDFD29D1CD5300BA451A /* ImageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCDFC29D1CD5300BA451A /* ImageBootCamp.swift */; };
 		07CBCE0129D1CFE700BA451A /* ButtonsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCE0029D1CFE700BA451A /* ButtonsBootCamp.swift */; };
 		07CBCE0329D1D6CD00BA451A /* FrameBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CBCE0229D1D6CD00BA451A /* FrameBootCamp.swift */; };
+		07D7BC8429E19A53006EB57F /* FocusStateBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D7BC8329E19A53006EB57F /* FocusStateBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -141,6 +142,7 @@
 		07CBCDFC29D1CD5300BA451A /* ImageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootCamp.swift; sourceTree = "<group>"; };
 		07CBCE0029D1CFE700BA451A /* ButtonsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootCamp.swift; sourceTree = "<group>"; };
 		07CBCE0229D1D6CD00BA451A /* FrameBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootCamp.swift; sourceTree = "<group>"; };
+		07D7BC8329E19A53006EB57F /* FocusStateBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,6 +243,7 @@
 				074DF9C229D9E3340083F906 /* StepperBootCamp.swift */,
 				074DF9C429D9ED3D0083F906 /* SliderBootCamp.swift */,
 				076917C029DACE9B003E3A77 /* DarkModeBootCamp.swift */,
+				07D7BC8329E19A53006EB57F /* FocusStateBootCamp.swift */,
 				076917C229DAD29F003E3A77 /* MarkUpsBootCamp.swift */,
 				0713E76F29D8320100823D44 /* ListBootCamp.swift */,
 				0738973829E18886008F9A4A /* ListSwipeActionsBootCamp.swift */,
@@ -370,6 +373,7 @@
 				0713E76E29D82B9900823D44 /* NavigationViewBootCamp.swift in Sources */,
 				0713E77629D8B63E00823D44 /* ActionSheetBootCamp.swift in Sources */,
 				0734569929DF5CDB00264D0B /* TabGestureBootCamp.swift in Sources */,
+				07D7BC8429E19A53006EB57F /* FocusStateBootCamp.swift in Sources */,
 				074DEBF129D5DB2A00096BD5 /* ExtractSubviewsBootCamp.swift in Sources */,
 				0715B13829E0C0AA00B2BA2C /* ProfileView.swift in Sources */,
 				072CA3C129E0199C00620545 /* EnvironmentObjectBootCamp.swift in Sources */,
