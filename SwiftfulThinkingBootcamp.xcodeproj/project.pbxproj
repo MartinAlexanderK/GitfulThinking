@@ -27,6 +27,7 @@
 		0738973529E17378008F9A4A /* TextSelectionBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0738973429E17378008F9A4A /* TextSelectionBootCamp.swift */; };
 		0738973729E183D4008F9A4A /* ButtonStylesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0738973629E183D4008F9A4A /* ButtonStylesBootCamp.swift */; };
 		0738973929E18886008F9A4A /* ListSwipeActionsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0738973829E18886008F9A4A /* ListSwipeActionsBootCamp.swift */; };
+		0738973B29E18CB4008F9A4A /* BadgesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0738973A29E18CB4008F9A4A /* BadgesBootCamp.swift */; };
 		073C7C5229DEDDBD00D52D68 /* DocumentationBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C7C5129DEDDBD00D52D68 /* DocumentationBootCamp.swift */; };
 		073C7C5429DEEA7100D52D68 /* OnAppearBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C7C5329DEEA7100D52D68 /* OnAppearBootCamp.swift */; };
 		073C7C5629DF088800D52D68 /* IfLetGuardBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073C7C5529DF088800D52D68 /* IfLetGuardBootCamp.swift */; };
@@ -94,6 +95,7 @@
 		0738973429E17378008F9A4A /* TextSelectionBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootCamp.swift; sourceTree = "<group>"; };
 		0738973629E183D4008F9A4A /* ButtonStylesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootCamp.swift; sourceTree = "<group>"; };
 		0738973829E18886008F9A4A /* ListSwipeActionsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootCamp.swift; sourceTree = "<group>"; };
+		0738973A29E18CB4008F9A4A /* BadgesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootCamp.swift; sourceTree = "<group>"; };
 		073C7C5129DEDDBD00D52D68 /* DocumentationBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootCamp.swift; sourceTree = "<group>"; };
 		073C7C5329DEEA7100D52D68 /* OnAppearBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootCamp.swift; sourceTree = "<group>"; };
 		073C7C5529DF088800D52D68 /* IfLetGuardBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootCamp.swift; sourceTree = "<group>"; };
@@ -242,6 +244,7 @@
 				076917C229DAD29F003E3A77 /* MarkUpsBootCamp.swift */,
 				0713E76F29D8320100823D44 /* ListBootCamp.swift */,
 				0738973829E18886008F9A4A /* ListSwipeActionsBootCamp.swift */,
+				0738973A29E18CB4008F9A4A /* BadgesBootCamp.swift */,
 				07320F7829E06940003B430B /* OnboardingViews */,
 			);
 			path = SwiftfulThinkingBootcamp;
@@ -380,6 +383,7 @@
 				074DF9C129D9DD070083F906 /* DatePickerBootCamp.swift in Sources */,
 				0738972F29E16B05008F9A4A /* AsyncImageBootCamp.swift in Sources */,
 				07CBCDF729D18B9300BA451A /* ShapesBootCamp.swift in Sources */,
+				0738973B29E18CB4008F9A4A /* BadgesBootCamp.swift in Sources */,
 				074DEBEF29D5D46700096BD5 /* ExtractedFunctionsBootCamp.swift in Sources */,
 				073C7C5429DEEA7100D52D68 /* OnAppearBootCamp.swift in Sources */,
 				07320F7729E06337003B430B /* AppStorageBootCamp.swift in Sources */,
